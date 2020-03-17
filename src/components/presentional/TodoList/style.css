@@ -1,0 +1,11 @@
+.todo-list span {
+  display: block;
+  margin-top: 32px;
+  color: #8888A0;
+  font-size: 16px; 
+}
+
+.todo-list ul {
+  list-style-type: none;
+  margin-top: 8px;
+}

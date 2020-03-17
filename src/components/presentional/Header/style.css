@@ -1,0 +1,19 @@
+.header {
+  border-bottom:1px solid #dedede;
+  margin-bottom: 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header h1 {
+  font-size: 44px;
+  color: #F27174;
+  margin-bottom: 16px;
+  margin-top: 24px;
+}
+
+.header i {
+  margin-right: 12px;
+  font-size: 32px;
+}

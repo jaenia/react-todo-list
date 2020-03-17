@@ -1,0 +1,29 @@
+.add-item-bar {
+  display: flex;
+}
+
+.add-item-bar input {
+  border: none;
+  border-bottom: 1px solid #F17174;
+  color: #8888A0;
+  font-size: 16px;
+  height: 32px;
+  margin-right: 16px;
+  width: 100%;
+  padding: 8px;
+}
+
+.add-item-bar input::placeholder {
+  color: #B9BACA;
+}
+
+.add-item-bar button {
+  border: none;
+  background-color: #F17174;
+  color: #fff;
+  height: 32px;
+  padding: 0 16px;
+  border-radius: 15px;
+  cursor: pointer;
+  font-weight: 700;
+}
